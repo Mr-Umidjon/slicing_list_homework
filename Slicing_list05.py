@@ -1,4 +1,4 @@
-def main(list1,n,k):
+def main(list1, n, k):
     """
     A list of several elements is given. Return the value from n index to k index.
     Args:
@@ -8,4 +8,4 @@ def main(list1,n,k):
     Returns:
         list: return answer.
     """
-    return
+    return list1[n:k]
